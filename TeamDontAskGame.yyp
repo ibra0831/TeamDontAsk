@@ -1,12 +1,21 @@
 {
   "resources": [
+    {"id":{"name":"sBackground5","path":"sprites/sBackground5/sBackground5.yy",},"order":4,},
+    {"id":{"name":"sBackground2","path":"sprites/sBackground2/sBackground2.yy",},"order":1,},
     {"id":{"name":"Room0","path":"rooms/Room0/Room0.yy",},"order":1,},
+    {"id":{"name":"sBackground3","path":"sprites/sBackground3/sBackground3.yy",},"order":2,},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},"order":2,},
+    {"id":{"name":"sBackground9","path":"sprites/sBackground9/sBackground9.yy",},"order":8,},
+    {"id":{"name":"sBackground6","path":"sprites/sBackground6/sBackground6.yy",},"order":5,},
+    {"id":{"name":"sBackground1","path":"sprites/sBackground1/sBackground1.yy",},"order":0,},
+    {"id":{"name":"sBackground4","path":"sprites/sBackground4/sBackground4.yy",},"order":3,},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":0,},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":1,},
+    {"id":{"name":"sBackground8","path":"sprites/sBackground8/sBackground8.yy",},"order":7,},
     {"id":{"name":"decaying","path":"sprites/decaying/decaying.yy",},"order":2,},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},"order":1,},
     {"id":{"name":"sEnemyBullet","path":"sprites/sEnemyBullet/sEnemyBullet.yy",},"order":2,},
+    {"id":{"name":"sBackground7","path":"sprites/sBackground7/sBackground7.yy",},"order":6,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
   ],
   "Options": [
@@ -41,6 +50,7 @@
     {"folderPath":"folders/Animation Curves.yy","order":12,"resourceVersion":"1.0","name":"Animation Curves","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Notes.yy","order":13,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":14,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/BackgroundSprites.yy","order":3,"resourceVersion":"1.0","name":"BackgroundSprites","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
