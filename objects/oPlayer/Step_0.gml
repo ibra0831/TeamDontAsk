@@ -46,9 +46,9 @@ function Hit(x)
     PlayerHealth = PlayerHealth - EnemyBulletDamage;
 }
 
-if (place_meeting(x,y,oEnemyBullet))
-{
-    Hit(1)
-}
+//if (place_meeting(x,y,oEnemyBullet))
+//{
+//    Hit(1)
+//}
 //hello there
 //hello there friend
