@@ -1,8 +1,11 @@
 {
   "resources": [
+    {"id":{"name":"enter_limbo","path":"sounds/enter_limbo/enter_limbo.yy",},"order":2,},
     {"id":{"name":"Room0","path":"rooms/Room0/Room0.yy",},"order":1,},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},"order":2,},
+    {"id":{"name":"Abient1","path":"sounds/Abient1/Abient1.yy",},"order":1,},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":0,},
+    {"id":{"name":"SoundTrack","path":"sounds/SoundTrack/SoundTrack.yy",},"order":0,},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":1,},
     {"id":{"name":"decaying","path":"sprites/decaying/decaying.yy",},"order":2,},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},"order":1,},
